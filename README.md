@@ -18,10 +18,10 @@ I'm happy to collaborate in any interesting project! feel free to reach me on my
 
 ### Tech stack ⚛️
 
-⚒️ Languages and Frameworks: JavaScript, Typescript, Python, Golang. React, Next.JS, Flask, gin, Node.js.
-🧪 Testing Frameworks: Jest, React Testing Library, Cypress, mocha, chai
-☁️ Cloud: AWS, Azure, GCP
-🧰 Other: Adobe analytics, Datadog, git, bash
-🤖 AI: SageMaker, BedRock, HuggingFace
+- ⚒️ Languages and Frameworks: JavaScript, Typescript, Python, Golang. React, Next.JS, Flask, gin, Node.js.
+- 🧪 Testing Frameworks: Jest, React Testing Library, Cypress, mocha, chai
+- ☁️ Cloud: AWS, Azure, GCP
+- 🧰 Other: Adobe analytics, Datadog, git, bash
+- 🤖 AI: SageMaker, BedRock, HuggingFace
 
 
