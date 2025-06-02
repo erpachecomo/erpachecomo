@@ -7,7 +7,9 @@ I'm happy to collaborate in any interesting project! feel free to reach me on my
 
 ### What is Ernesto doing right now? 🤔
 
-- 🔭 I’m currently working on a [RSS Aggregator](https://github.com/erpachecomo/rss-aggregator) built in Go
+- 🔭 I’m currently working on:
+  - a [RSS Aggregator](https://github.com/erpachecomo/rss-aggregator) built in Go
+  - [Poke-UI](https://github.com/erpachecomo/poke-ui-react) a React component library inspired in Pokémon. 
 - 🌱 I’m currently learning:
   -  🤖 AI, through the [hugging face courses](https://huggingface.co/learn)!
   -  🌩️ Serverless Applications, in [AWS Skill Builder](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=field16-_39)
